@@ -1,7 +1,9 @@
 name: Unity Test Demo
 
 # Run test when push or pull request is made
-on: [push, pull_request]
+# on: [push, pull_request]
+# Run test by triggering workflow manually
+on: workflow_dispatch
 
 jobs:
   build-and-test:
