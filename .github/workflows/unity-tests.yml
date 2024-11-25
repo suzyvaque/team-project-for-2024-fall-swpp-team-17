@@ -5,6 +5,8 @@ name: Unity Test Demo
 # Run test by triggering workflow manually
 on: workflow_dispatch
 
+permissions: write-all
+
 jobs:
   build-and-test:
     runs-on: windows-latest
