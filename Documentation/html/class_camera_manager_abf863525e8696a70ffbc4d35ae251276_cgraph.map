@@ -1,0 +1,17 @@
+<map id="CameraManager.LateUpdate" name="CameraManager.LateUpdate">
+<area shape="rect" id="Node000001" title="Updates the camera&#39;s position and behavior based on the game state." alt="" coords="5,129,193,155"/>
+<area shape="rect" id="Node000002" href="$class_camera_manager.html#ae2433ece7926bc754388a027fe651cbf" title="Updates the target position to follow the player." alt="" coords="274,5,469,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,127,166,83,201,59,240,40,258,33,260,38,242,45,204,64,169,88,116,131"/>
+<area shape="rect" id="Node000003" href="$class_camera_manager.html#a915a562f224abd4abaf2c5e8d526ef4e" title="Adjusts the camera position to circle around the player during the game over state." alt="" coords="241,55,502,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="132,126,240,89,271,81,272,87,241,94,134,131"/>
+<area shape="rect" id="Node000004" href="$class_camera_manager.html#ad881077fff92cbf11d126b46675da700" title="Rotates the camera based on input and gravity." alt="" coords="269,104,474,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,131,253,125,253,130,193,136"/>
+<area shape="rect" id="Node000005" href="$class_camera_manager.html#aa204b613d3d3a36cf946c6a7a8461ffd" title="Updates the distance from the player based on scroll input." alt="" coords="269,153,474,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="193,148,253,153,253,158,193,153"/>
+<area shape="rect" id="Node000006" href="$class_camera_manager.html#acbb0969785a3755e8612812b1184cce5" title="Ensures the camera remains within corridor bounds." alt="" coords="276,203,467,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="135,153,241,189,272,196,271,202,240,194,133,158"/>
+<area shape="rect" id="Node000007" href="$class_camera_manager.html#a304c6f9a244891659352ef0a2035c55f" title="Moves the camera in a spiral motion towards the wormhole." alt="" coords="270,252,472,293"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="117,153,170,195,205,219,242,238,256,244,254,249,240,243,202,223,167,200,114,158"/>
+<area shape="rect" id="Node000008" href="$class_game_manager.html#ac53809f79e07da77e7d0d21007bd522c" title="Ends the wormhole effect and teleports the player to the target position." alt="" coords="550,260,738,286"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="473,270,534,270,534,276,473,276"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ButtonManager.EnoughPress" name="ButtonManager.EnoughPress">
+<area shape="rect" id="Node000001" title="Handles logic when the button has been pressed long enough. Starts the puzzle on the first activation..." alt="" coords="5,46,196,72"/>
+<area shape="rect" id="Node000002" href="$interface_our_game_1_1_puzzle_interface.html#a8ae7e3275d1796a4fdfa18b06d39f467" title=" " alt="" coords="244,5,420,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,43,228,38,229,43,195,48"/>
+<area shape="rect" id="Node000003" href="$interface_our_game_1_1_puzzle_interface.html#ace72fc3436027ce5f173a94985dff5f9" title=" " alt="" coords="244,71,420,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,70,229,74,228,79,196,75"/>
+</map>
